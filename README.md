@@ -3,7 +3,7 @@ This website is getting a rewamp. That means you can still use it, but it is get
 
 <h1 align="center">
 <a href="https://enjoytown.netlify.app">
-Enjoytown
+Fantasy World
 </a>
 </h1>
 
